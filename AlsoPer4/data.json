@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Pensil 2B",
+    "harga": 3000,
+    "stok": 100,
+    "kategori": "Alat Tulis"
+  },
+  {
+    "id": 2,
+    "nama": "Buku Tulis",
+    "harga": 5000,
+    "stok": 200,
+    "kategori": "Alat Tulis"
+  },
+  {
+    "id": 3,
+    "nama": "Penghapus",
+    "harga": 2000,
+    "stok": 150,
+    "kategori": "Alat Tulis"
+  }
+]
