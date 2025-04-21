@@ -1,0 +1,7 @@
+CREATE DATABASE akademik;
+
+USE akademik
+
+CREATE TABLE users(
+    
+)
