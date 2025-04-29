@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Mesin Cuci",
+    "jumlahBarang": 50,
+    "terjual": 30,
+    "sisa": 20,
+    "updateAt": "2025-04-29T06:16:21.306Z"
+  },
+  {
+    "id": 2,
+    "namaBarang": "Meja",
+    "jumlahBarang": 150,
+    "terjual": 25,
+    "sisa": 125,
+    "updateAt": "2025-04-29T06:16:21.306Z"
+  }
+]
