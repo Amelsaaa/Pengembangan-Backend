@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Mesin Cuci",
+    "jumlahBarang": 30,
+    "terjual": 25,
+    "sisa": 5,
+    "updateAt": "3/5/2025, 20.14.08"
+  },
+  {
+    "id": 2,
+    "namaBarang": "Meja",
+    "jumlahBarang": 150,
+    "terjual": 25,
+    "sisa": 125,
+    "updateAt": "3/5/2025, 20.14.08"
+  },
+  {
+    "id": 3,
+    "namaBarang": "Tas Ransel",
+    "jumlahBarang": 200,
+    "terjual": 102,
+    "sisa": 98,
+    "updateAt": "2025-05-01T19:24"
+  }
+]
